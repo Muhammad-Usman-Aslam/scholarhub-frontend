@@ -77,7 +77,7 @@ const GetData = () => {
                   >
                     <Card.Img
                       variant="top"
-                      src={`https://scholarhub-frontend-three.vercel.app/api/img/${v._id}`}
+                      src={`https://scholarhub-l1ct.vercel.app/api/img/${v._id}`}
                       style={{
                         height: "200px",
                         objectFit: "cover",
