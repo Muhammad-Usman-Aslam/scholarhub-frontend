@@ -81,7 +81,7 @@ setForm({name: "",email: "",subject: "",message: "",});
                   <FaEnvelope className="text-danger me-2" />
                   <strong>Email</strong>
                   <p className="text-muted mb-0">
-                    info@scholarhub.com
+                    muhammadusmanaslam76@gmail.com
                   </p>
                 </div>
 

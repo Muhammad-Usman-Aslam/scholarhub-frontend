@@ -303,12 +303,12 @@ const Footer = () => {
 
               <p>
                 <FaPhoneAlt className="me-2" />
-                +92 300 1234567
+                +92 3099229243
               </p>
 
               <p>
                 <FaEnvelope className="me-2" />
-                info@scholarhub.com
+                muhammadusmanaslam76@gmail.com
               </p>
 
               <div className="mt-4">
